@@ -12,6 +12,7 @@
     "axios": "^0.21.1",
     "compression": "^1.7.1",
     "polka": "next",
+    "rollup-plugin-css-only": "^3.1.0",
     "sirv": "^1.0.0"
   },
   "devDependencies": {
